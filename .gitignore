@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+/Content/
+/DerivedData/
+/Intermediate/
+/Plugins/
+/Saved/
+/Binaries/Mac/
+/MyProject.xcworkspace/
