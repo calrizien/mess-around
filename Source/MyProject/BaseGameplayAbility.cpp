@@ -20,6 +20,7 @@ void UBaseGameplayAbility::OnAvatarSet(const FGameplayAbilityActorInfo* ActorInf
 	{
 		bool ActivatedAbility = ActorInfo->AbilitySystemComponent->TryActivateAbility(Spec.Handle, false);
 	}
+
 }
 
 void UBaseGameplayAbility::ApplyGameplayEffectToOwner(TSubclassOf<UGameplayEffect> EffectToAdd, float EffectLevel)

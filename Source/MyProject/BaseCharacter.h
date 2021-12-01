@@ -10,6 +10,8 @@
 #include "BaseAttributeSet.h"
 #include "BaseCharacter.generated.h"
 
+
+
 class UBaseGamePlayAbility;
 class UGameplayEffect;
 
